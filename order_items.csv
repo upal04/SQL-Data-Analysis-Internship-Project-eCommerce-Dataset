@@ -1,0 +1,6 @@
+order_item_id,order_id,product_id,quantity
+1,101,501,1
+2,101,502,2
+3,103,503,1
+4,104,504,3
+5,105,502,1
